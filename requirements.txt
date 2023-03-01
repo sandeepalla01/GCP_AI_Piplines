@@ -1,0 +1,12 @@
+sklearn
+pandas
+seaborn
+dvc
+google-api-python-client
+dask[dataframe]
+gcsfs
+google-cloud
+google-cloud-storage
+joblib
+xgboost
+tensorflow
